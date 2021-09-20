@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-import AppRoutes from './routes/AppRoutes'
+import logo from "./logo.svg";
+import "./App.css";
+import AppRoutes from "./routes/AppRoutes";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ backgroundColor: "#e4e4e4" }}>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
